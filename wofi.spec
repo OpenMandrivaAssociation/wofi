@@ -4,7 +4,7 @@ Version:	1.3
 Release:	1
 License:	GPLv3
 URL:		https://hg.sr.ht/~scoopta/wofi
-Source0:	%{URL}/archive/v%{version}.tar.gz
+Source0:	%{URL}/archive/%{name}-v%{version}.tar.gz
  
 BuildRequires:	meson
 BuildRequires:	pkgconfig(gtk+-3.0)
