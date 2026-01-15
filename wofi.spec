@@ -1,6 +1,6 @@
 Name:		wofi
 Summary:	A launcher/menu for wlroots based wayland compositors
-Version:	1.5.1
+Version:	1.5.3
 Release:	1
 License:	GPLv3
 URL:		https://hg.sr.ht/~scoopta/wofi
